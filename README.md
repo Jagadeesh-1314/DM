@@ -26,17 +26,7 @@ Welcome to the **DM Project** — a sleek, modern, and responsive website tailor
 
 ## 📁 Project Structure
 
-📦 DM/
-├── 📂 public/ → Static assets (images, icons, etc.)
-├── 📂 src/
-│ ├── 📂 components/ → Reusable UI components
-│ ├── 📂 pages/ → Main pages like Home, Services
-│ └── 📄 App.tsx → Root application
-├── 📄 index.html → HTML entry point
-├── 📄 vite.config.ts → Vite configuration
-├── 📄 tsconfig.json → TypeScript configuration
-├── 📄 package.json → Dependencies & scripts
-└── 📄 README.md → This file
+<pre lang="md"> ``` 📦 DM/ ├── 📂 public/ → Static assets (images, icons, etc.) ├── 📂 src/ │ ├── 📂 components/ → Reusable UI components │ ├── 📂 pages/ → Main pages like Home, Services │ └── 📄 App.tsx → Root application ├── 📄 index.html → HTML entry point ├── 📄 vite.config.ts → Vite configuration ├── 📄 tsconfig.json → TypeScript configuration ├── 📄 package.json → Dependencies & scripts └── 📄 README.md → This file ``` </pre>
 
 ---
 
