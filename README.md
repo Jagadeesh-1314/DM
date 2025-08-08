@@ -55,11 +55,16 @@ Welcome to the **DM Project** — a sleek, modern, and responsive website tailor
 git clone https://github.com/Jagadeesh-1314/DM.git
 cd DM
 npm install
+```
+
+---
 
 🧪 Development
 ```
 npm run dev
 ```
+
+---
 
 🏗️ Build for Production
 
@@ -67,9 +72,12 @@ npm run dev
 npm run build
 ```
 
+---
+
 📁 The optimized production build will be in the dist/ folder.
 
 🔍 Preview Build Locally
+
 ```
 npm run preview
 ```
